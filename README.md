@@ -1,57 +1,85 @@
-<h1 align="center">Hi there, I'm Abolfazl 👋</h1>
-<h3 align="center">🚀 Python & Web Developer | Linux Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Abolfazl</h1>
+<h3 align="center">🚀 Python & Web Developer from Iran 🇮🇷 | 17 years old</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;Linux+Enthusiast;Open+Source+Learner;Self+taught+programmer+from+Iran" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔥 Passionate Python Developer  
-- 💻 Interested in backend, automation and clean web design  
-- 🐧 Love working with Ubuntu & Linux tools  
-- 🚀 Always learning new technologies  
+## 🧠 About Me
+- 🇮🇷 I'm **Abolfazl**, a 17-year-old passionate developer from **Iran**  
+- 🐍 I mainly code in **Python**
+- 🌐 I design responsive web UIs using **HTML, CSS, and TailwindCSS**
+- 🐧 I love **Ubuntu & Linux tools**
+- ⚡ I'm interested in **automation, optimizations, and backend development**
+- 🚀 Always learning & building new stuff!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 🔹 Languages & Frameworks:
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
-### 🔹 Tools:
+### 🧩 Frameworks / Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,pycharm" />
 </p>
 
-### 🔹 Operating Systems:
+### 🐧 Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbDev&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbDev&layout=compact&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbDev&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbDev&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
 </p>
 
 ---
 
-## 🚀 Profile Visits
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlNbDev&label=Profile%20Views&color=blueviolet&style=flat" />
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbolfazlNbDev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact
-If you like my work or want to collaborate, feel free to connect!  
-⭐ Check out my repositories below.
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌍 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlNbDev&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+</p>
+
+---
+
+## 💬 Connect With Me
+<p align="center">
+  <a href="https://github.com/AbolfazlNbDev"><img src="https://img.shields.io/badge/GitHub-AbolfazlNbDev-181717?logo=github" /></a>
+</p>
+
+---
+
+## ⚡ Fun Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⭐ Thanks for visiting my profile!
+<p align="center">
+  🌟 Check out my projects and feel free to collaborate!
+</p>
