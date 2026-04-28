@@ -23,7 +23,7 @@
 
 ### Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript" height="60"/>
 </p>
 
 ### Frameworks
@@ -71,10 +71,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
----
-
-# ⚙️ Skills Progress
 
 ---
 
