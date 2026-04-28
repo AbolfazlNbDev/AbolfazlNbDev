@@ -1,111 +1,106 @@
-<h1 align="center">🚀 Hi, I'm Abolfazl</h1>
-<h3 align="center">Python Backend Developer | 17 y/o from Iran 🇮🇷</h3>
+<p align="center">
+
+█████╗ ██████╗  ██████╗ ███████╗██╗   ██╗ █████╗ ███████╗██╗     
+██╔══██╗██╔══██╗██╔════╝ ██╔════╝██║   ██║██╔══██╗██╔════╝██║     
+███████║██████╔╝██║  ███╗█████╗  ██║   ██║███████║█████╗  ██║     
+██╔══██║██╔══██╗██║   ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██╔══╝  ██║     
+██║  ██║██║  ██║╚██████╔╝███████╗ ╚████╔╝ ██║  ██║███████╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝
+
+</p>
+
+<h1 align="center">⚡ Abolfazl Nb</h1>
+<h3 align="center">Python Backend Developer | 17 y/o | Iran 🇮🇷</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Flask+%7C+FastAPI+Developer;HTML+CSS+Tailwind+Developer;Linux+%26+Ubuntu+Enthusiast;Self+Taught+Developer+from+Iran" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Flask+and+FastAPI+Developer;Linux+%7C+Ubuntu+Enthusiast;HTML+CSS+Tailwind+Developer;Self+Taught+Developer+from+Iran" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 👦 17 years old developer from **Iran 🇮🇷**
+# 👨‍💻 About Me
+- 👦 17 years old developer from **Iran**
 - 🐍 Backend developer using **Python**
-- ⚡ Building APIs with **Flask & FastAPI**
-- 🌐 Web developer with **HTML, CSS, TailwindCSS**
+- ⚡ API Developer with **Flask** & **FastAPI**
+- 🎨 Web Developer (HTML, CSS, TailwindCSS)
 - 🐧 Linux lover (**Ubuntu**)
-- 💡 Passionate about backend systems, automation and servers
+- 🚀 Passionate about backend systems & automation
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### Programming
+### Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css" height="60">
+<img src="https://skillicons.dev/icons?i=python,html,css" height="60"/>
 </p>
 
 ### Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,tailwind" height="60">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,tailwind" height="60"/>
 </p>
 
-### Tools
+### Tools & Environment
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,ubuntu" height="60">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,ubuntu" height="60"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+# 🏆 GitHub Trophies
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbolfazlNbDev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
+---
+
+# 📊 GitHub Stats
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbDev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbDev&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+# 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AbolfazlNbDev&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
-
+# 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbDev&theme=react-dark&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbDev&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
+# 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 📊 Skill Progress
-
-Python  
-████████████████░░░░ 90%
-
-Flask  
-██████████████░░░░░░ 80%
-
-TailwindCSS  
-█████████████░░░░░░░ 75%
-
-Linux  
-███████████████░░░░░ 85%
-
-HTML / CSS  
-████████████████░░░░ 90%
+# ⚙️ Skills Progress
 
 ---
 
-## 💡 Quote
-
+# 💬 Random Dev Quote
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-
+# 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbolfazlNbDev&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=AbolfazlNbDev&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile
+<h3 align="center">⭐ Thanks for visiting my profile</h3>
+<h4 align="center">More cool projects coming soon 🚀</h4>
+`
