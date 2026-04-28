@@ -4,7 +4,7 @@
 <h3 align="center">Python Backend Developer | 17 y/o | Iran 🇮🇷</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=red&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Flask+and+FastAPI+Developer;Linux+%7C+Ubuntu+Enthusiast;HTML+CSS+Tailwind+Developer;Self+Taught+Developer+from+Iran" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Flask+and+FastAPI+Developer;Linux+%7C+Ubuntu+Enthusiast;HTML+CSS+Tailwind+Developer;Self+Taught+Developer+from+Iran" />
 </p>
 
 ---
