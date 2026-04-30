@@ -1,37 +1,36 @@
-
-
 <h1 align="center">⚡ Abolfazl Nb</h1>
-<h3 align="center">Python Backend Developer | 17 y/o | Iran 🇮🇷</h3>
+<h3 align="center">Python Backend & Full‑Stack Developer | 17 y/o | Iran 🇮🇷</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Flask+and+FastAPI+Developer;Linux+%7C+Ubuntu+Enthusiast;HTML+CSS+Tailwind+Developer;Self+Taught+Developer+from+Iran" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Full‑Stack+Web+Developer;Flask+and+FastAPI+Developer;Linux+%7C+Ubuntu+Enthusiast;HTML+CSS+Tailwind+Developer;Self+Taught+Developer+from+Iran" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
-- 👦 17 years old developer from **Iran**
-- 🐍 Backend developer using **Python**
-- ⚡ API Developer with **Flask** & **FastAPI**
-- 🎨 Web Developer (HTML, CSS, TailwindCSS)
-- 🐧 Linux lover (**Ubuntu**)
-- 🚀 Passionate about backend systems & automation
+- 👦 17-year-old **Backend & Full‑Stack Developer**
+- 🐍 Specialized in **Python** backend systems  
+- ⚡ Professional API Developer (**Flask**, **FastAPI**)  
+- 🎨 Frontend: **HTML**, **CSS**, **TailwindCSS**, a bit of **JS**  
+- 🐧 Linux & **Ubuntu** enthusiast  
+- 🚀 Interested in backend architecture, automation & scalable systems  
+- 💡 Always learning, always building cool stuff  
 
 ---
 
 # 🧠 Tech Stack
 
-### Programming Languages
+## 🚀 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript" height="60"/>
 </p>
 
-### Frameworks
+## 🏗️ Frameworks & Libraries
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,tailwind" height="60"/>
 </p>
 
-### Tools & Environment
+## 🛠 Tools & Environment
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,ubuntu" height="60"/>
 </p>
@@ -89,5 +88,4 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile</h3>
-<h4 align="center">More cool projects coming soon 🚀</h4>
-`
+<h4 align="center">More awesome projects coming soon 🚀</h4>
