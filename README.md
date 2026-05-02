@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF0033&center=true&vCenter=true&width=900&lines=Abolfazl+Nb;Full‑Stack+%26+Backend+Developer;Creative+Engineer;Linux+%7C+Automation+%7C+Open‑Source+Lover" />
 </p>
 
-<h1 align="center" style="color:#ff0033;">🔥 Welcome to My Cyber World 🔥</h1>
+<h1 align="center" style="color:#ff0033;">Welcome to My World ^_-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-17-ff0033?style=for-the-badge&labelColor=000000&color=ff0033"/>
