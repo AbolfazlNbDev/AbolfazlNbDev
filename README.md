@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-17-ff0033?style=for-the-badge&labelColor=000000&color=ff0033"/>
   <img src="https://img.shields.io/badge/FullStack%20Developer-ff0033?style=for-the-badge&labelColor=000000&color=ff0033"/>
-  <img src="https://img.shields.io/badge/From-Iran%20🇮🇷-ff0033?style=for-the-badge&labelColor=000000&color=ff0033"/>
+  <img src="https://img.shields.io/badge/From-Iran%20-ff0033?style=for-the-badge&labelColor=000000&color=ff0033"/>
 </p>
 
 <p align="center">
